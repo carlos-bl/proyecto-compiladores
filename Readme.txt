@@ -7,4 +7,6 @@ bison -dv amiParser.y
 
 gcc -c amiParser.tab.c
 
-gcc -o miCompi amiParser.tab.o lex.yy.c
+flex amiLexer.lex
+
+gcc -o miCompi amiParser.tab.o lex.yy.c -lm
