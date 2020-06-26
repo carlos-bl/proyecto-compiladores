@@ -1,0 +1,6 @@
+entero identificadorlargo;
+def entero miFun ( sin )
+inicio
+escribe identificadorlargo;
+leer identificadorlargo;
+fin

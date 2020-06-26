@@ -1,0 +1,10 @@
+entero n ;
+entero x ;
+def entero miFun ( sin )
+inicio
+leer n;
+si n < 10 entonces x := 1; sino leer x; fin
+mientras n < 10  hacer x := 5+3 ; fin
+escribe n;
+escribe x;
+fin

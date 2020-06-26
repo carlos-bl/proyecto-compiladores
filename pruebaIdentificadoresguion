@@ -1,0 +1,6 @@
+entero identificador_largo;
+def entero miFun ( sin )
+inicio
+escribe identificador_largo;
+leer identificador_largo;
+fin

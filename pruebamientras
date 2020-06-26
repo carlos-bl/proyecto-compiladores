@@ -1,0 +1,6 @@
+entero n ;
+entero x ;
+def entero miFun ( sin )
+inicio
+mientras n < 10  hacer x := 5+3 ; fin
+fin

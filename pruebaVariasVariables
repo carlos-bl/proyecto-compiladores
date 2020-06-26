@@ -1,0 +1,6 @@
+entero n, x;
+def entero miFun ( sin )
+inicio
+leer x;
+leer n;
+fin
