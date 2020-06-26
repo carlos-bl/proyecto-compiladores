@@ -11,4 +11,4 @@ flex amiLexer.lex
 
 gcc -o miCompi amiParser.tab.o lex.yy.c -lm
 
-Los archivos llamados prueba estan escritos en el código del compilador. Sirven para probar su funcionamiento.
+Los archivos llamados prueba estan escritos en el lenguaje del compilador. Sirven para probar su funcionamiento.
